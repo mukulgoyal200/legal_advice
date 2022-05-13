@@ -1,0 +1,16 @@
+.document {
+    margin-top: 70px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 70px;
+    height: auto;
+    width: max-content;
+    font-size: 2pc;
+    font-family: "Georgia";
+    line-height: 55px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    outline: solid 3px rgb(5, 3, 3);
+}
